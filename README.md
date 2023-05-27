@@ -1,5 +1,15 @@
 # Ejercicio 3 del TP1: React ![React Icon](./src/assets/react.svg)
 
+## Descripción
+
+Modificar el programa anterior agregando al componente un state con la clave msj:
+“(from changed state)”, además agregar un botón al presionar este botón (onClick),
+el state de la clave msj se debe mostrar por pantalla.
+
+## Link Versión en Producción
+
+[Netlify](https://ej3-tp1-react-rollingcode-romerouro.netlify.app/)
+
 ## Tecnologias / Herramientas 🛠
 
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -16,7 +26,7 @@ Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno local:
 1.  **Clona el repositorio:** En tu línea de comandos, ejecuta el siguiente comando para clonar el repositorio:
 
     ```
-    git clone https://github.com/jgromerou/practico1-React-ej1.git
+    git clone https://github.com/jgromerou/ej3-practico1-react.git
     ```
 
 2.  **Accede al directorio:** Ve al directorio de la aplicación clonada:
